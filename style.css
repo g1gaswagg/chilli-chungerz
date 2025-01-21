@@ -6,7 +6,10 @@
 }
 .nav {
     position: fixed;
-    height: 10vh;
+    height: 20vh;
     width: 100vw;
     background: #bf8854;
+}
+.logo .img {
+    height: 20vh;
 }
