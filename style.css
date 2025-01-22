@@ -18,7 +18,6 @@ body {
     color: #000;
     justify-content: space-between;
     align-items: center;
-    z-index: 100;
 }
 .main-section {
     height: 100vh;
