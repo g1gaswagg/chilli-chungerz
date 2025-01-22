@@ -37,7 +37,7 @@ body {
     width: 80vh;
     display: flex;
     height: 20vh;
-    justify-content: left;
+    justify-content: space-between;
     align-items: center;
 }
 .buttons p {
