@@ -16,6 +16,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    z-index: 100;
 }
 .main-section {
     height: 100vh;
@@ -44,4 +45,8 @@ body {
 .side {
     width: 50vw;
     height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
 }
