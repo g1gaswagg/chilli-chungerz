@@ -53,3 +53,6 @@ body {
     flex-direction: column;
     text-align: left;
 }
+.side * {
+    width: 50vw;
+}
