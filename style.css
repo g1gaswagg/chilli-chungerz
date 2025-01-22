@@ -37,7 +37,7 @@ body {
     width: 80vh;
     display: flex;
     height: 20vh;
-    justify-content: space-evenly;
+    justify-content: left;
     align-items: center;
 }
 .buttons p {
@@ -53,7 +53,7 @@ body {
     flex-direction: column;
     text-align: left;
 }
-.side * {
+.content {
     width: 50vw;
 }
 button {
@@ -62,4 +62,5 @@ button {
     border: 0;
     background: #c08855;
     border: 4%;
+    width: 4vw;
 }
