@@ -80,4 +80,5 @@ button {
     top: 10vh;
     width: 100vw;
     background: linear-gradient(90deg, rgba(2,0,36,0) 40%, rgba(245,95,95,1) 50%, rgba(245,95,95,0) 50%);
+    pointer-events: none;
 }
