@@ -37,7 +37,7 @@ body {
     width: 80vh;
     display: flex;
     height: 20vh;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
 }
 .buttons p {
@@ -68,4 +68,8 @@ button {
 }
 .content h1 {
     font-size: 84pt;
+}
+.img-section {
+    background: url("hotsauce.jpg");
+    background-size: cover;
 }
