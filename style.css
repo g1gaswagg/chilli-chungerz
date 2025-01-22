@@ -10,7 +10,7 @@ body {
 }
 .nav {
     position: fixed;
-    height: 20vh;
+    height: 10vh;
     width: 100vw;
     background: #fcfcfc;
     display: flex;
@@ -25,11 +25,11 @@ body {
     background: #f55f5f;
 }
 .logo {
-    height: 20vh;
+    height: 10vh;
 }
 .logo img {
-    height: 20vh;
-    width: 20vh;
+    height: 10vh;
+    width: 10vh;
 }
 .buttons {
     width: 80vh;
@@ -37,4 +37,5 @@ body {
     height: 20vh;
     justify-content: space-evenly;
     align-items: center;
+    font-size: 26pt;
 }
