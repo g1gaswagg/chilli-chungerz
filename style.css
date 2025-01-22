@@ -76,7 +76,8 @@ button {
 }
 .sauce-gradient {
     position: absolute;
-    height: 100vh;
+    height: 80vh;
+    top: 20vh;
     width: 100vw;
     background: linear-gradient(90deg, rgba(2,0,36,0) 40%, rgba(245,95,95,1) 50%, rgba(245,95,95,0) 50%);
 }
