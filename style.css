@@ -8,10 +8,17 @@
     position: fixed;
     height: 20vh;
     width: 100vw;
-    background: #bf8854;
+    background: #fcfcfc;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.main_section {
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f55f5f;
 }
 .logo {
     height: 20vh;
