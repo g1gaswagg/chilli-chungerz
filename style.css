@@ -56,3 +56,10 @@ body {
 .side * {
     width: 50vw;
 }
+.button {
+    color: #000;
+    outline: 0;
+    border: 0;
+    background: #c08855;
+    border: 4%;
+}
