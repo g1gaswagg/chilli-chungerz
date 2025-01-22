@@ -60,7 +60,12 @@ button {
     color: #000;
     outline: 0;
     border: 0;
-    background: #c08855;
+    border-radius: 5%;
+    font-size: 18pt;
+    background: #6ec055;
     width: 7.5vw;
     height: 7.5vh;
+}
+.content h1 {
+    font-size: 84;
 }
