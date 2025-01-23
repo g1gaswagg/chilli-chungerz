@@ -63,11 +63,11 @@ body {
 button {
     outline: 0;
     border: 0;
-    border-radius: 5%;
+    border-radius: 200px;
     font-size: 18pt;
     background: #3458eb;
     width: 8.5vw;
-    height: 8.5vh;
+    height: 7vh;
 }
 .content h1 {
     font-size: 84pt;
