@@ -60,6 +60,11 @@ body {
 }
 .content {
     width: 50vw;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 button {
     outline: 0;
