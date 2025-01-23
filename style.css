@@ -56,7 +56,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    text-align: left;
+    text-align: center;
 }
 .content {
     width: 50vw;
