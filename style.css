@@ -38,6 +38,7 @@ body {
     height: 8vh;
     justify-content: space-evenly;
     align-items: center;
+    z-index: 1000;
 }
 .buttons, .logo {
     background-color: #040404;
@@ -82,4 +83,5 @@ button {
     width: 100vw;
     background: linear-gradient(90deg, rgba(0,0,0,0) 40%, rgba(0,0,0,1) 50%, rgba(0,0,0,0) 50%);
     pointer-events: none;
+    z-index: 100;
 }
