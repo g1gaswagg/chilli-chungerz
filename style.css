@@ -13,7 +13,7 @@ body {
     position: fixed;
     height: 10vh;
     width: 100vw;
-    background: #fcfcfc;
+    background: #040404;
     display: flex;
     color: #000;
     justify-content: space-between;
@@ -63,8 +63,8 @@ button {
     border-radius: 5%;
     font-size: 18pt;
     background: #3458eb;
-    width: 10vw;
-    height: 10vh;
+    width: 8.5vw;
+    height: 8.5vh;
 }
 .content h1 {
     font-size: 84pt;
