@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
 * {
     box-sizing: border-box;
     margin: 0;
@@ -71,6 +72,7 @@ button {
 }
 .content h1 {
     font-size: 84pt;
+    font-family: 'Roboto Condensed', 'Poppins', sans-serif;
 }
 .img-section {
     background: url("hotsauce.jpg");
