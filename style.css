@@ -27,9 +27,8 @@ body {
 }
 .logo {
     height: 10vh;
-}
-.logo img {
-    height: 10vh;
+    background: url("big_chungy.jpg");
+    background-size: cover;
     width: 20.4vh;
 }
 .buttons {
