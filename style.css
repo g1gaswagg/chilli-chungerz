@@ -72,6 +72,7 @@ button {
 }
 .content h1 {
     font-size: 84pt;
+    width: 30vw;
     font-family: 'Roboto Condensed', 'Poppins', sans-serif;
 }
 .img-section {
