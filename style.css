@@ -24,7 +24,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #f55f5f;
+    background: #040404;
 }
 .logo {
     height: 10vh;
@@ -79,6 +79,6 @@ button {
     height: 90vh;
     top: 10vh;
     width: 100vw;
-    background: linear-gradient(90deg, rgba(2,0,36,0) 40%, rgba(245,95,95,1) 50%, rgba(245,95,95,0) 50%);
+    background: linear-gradient(90deg, rgba(0,0,0,0) 40%, rgba(0,0,0,1) 50%, rgba(0,0,0,0) 50%);
     pointer-events: none;
 }
