@@ -86,7 +86,7 @@ button {
     background-position: center;
 }
 .sauce-gradient {
-    position: fixed;
+    position: absolute;
     height: 100vh;
     width: 100vw;
     background: linear-gradient(90deg, rgba(0,0,0,0) 40%, rgba(0,0,0,1) 50%, rgba(0,0,0,0) 50%);
