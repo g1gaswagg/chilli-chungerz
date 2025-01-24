@@ -93,3 +93,6 @@ button {
     pointer-events: none;
     z-index: 100;
 }
+.page2 {
+    background: #000;
+}
