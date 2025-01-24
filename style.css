@@ -71,14 +71,13 @@ button {
     outline: 0;
     border: 0;
     border-radius: 200px;
-    font-size: 18pt;
+    font-size: 2vh;
     background: #bc3516;
     width: 8.5vw;
     height: 7vh;
 }
 .content h1 {
     font-size: 84pt;
-    width: 30vw;
     font-family: 'Roboto Condensed', 'Poppins', sans-serif;
 }
 .img-section {
