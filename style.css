@@ -5,6 +5,7 @@
     margin: 0;
     padding: 0;
     color: #fff;
+    scroll-behavior: smooth;
     font-family: 'Poppins', sans-serif;
 }
 .page1, .page2 {
@@ -102,4 +103,10 @@ button {
     align-items: center;
     height: 100vh;
     flex-direction: column;
+}
+.review-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
 }
