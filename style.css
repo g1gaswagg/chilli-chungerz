@@ -112,6 +112,8 @@ button {
 }
 .review {
     width: 15vw;
+    text-align: center;
+    background: #1a1919;
 }
 .stars i {
     color: #ffff00;
