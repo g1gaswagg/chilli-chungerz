@@ -131,9 +131,15 @@ button {
     font-size: 16pt;
 }
 .review-image {
-    width: 15vh;
-    height: 15vh;
+    width: 10vw;
+    height: 10vw;
     background: url(aaront.jpeg);
     background-size: cover;
     border-radius: 200px;
+}
+.image-wrapper {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10vw;
 }
