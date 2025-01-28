@@ -131,8 +131,8 @@ button {
     font-size: 16pt;
 }
 .review-image {
-    width: 5vh;
-    height: 5vh;
+    width: 15vh;
+    height: 15vh;
     background: url(aaront.jpeg);
     background-size: cover;
     border-radius: 200px;
