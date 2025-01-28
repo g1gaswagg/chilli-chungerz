@@ -113,3 +113,6 @@ button {
 .review {
     width: 15vw;
 }
+.stars i {
+    color: #ffff00;
+}
