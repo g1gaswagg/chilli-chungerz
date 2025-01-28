@@ -109,13 +109,31 @@ button {
     justify-content: space-evenly;
     align-items: center;
     height: 50vh;
+    width: 75vw;
 }
 .review {
     width: 15vw;
     text-align: center;
     background: #1a1919;
     height: 50vh;
+    border-radius: 10px;
 }
 .stars i {
     color: #ffff00;
+}
+.stars {
+    font-size: 24pt;
+}
+.reviewer-name {
+    font-size: 36pt;
+}
+.reviewer-description {
+    font-size: 16pt;
+}
+.review-image {
+    width: 5vh;
+    height: 5vh;
+    background: url(aaront.jpeg);
+    background-size: cover;
+    border-radius: 200px;
 }
