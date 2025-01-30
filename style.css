@@ -137,6 +137,7 @@ button {
     background: #1a1919;
     height: 50vh;
     border-radius: 10px;
+    font-family: 'Roboto Condensed', 'Poppins', sans-serif;
 }
 
 .stars i {
@@ -149,7 +150,6 @@ button {
 
 .reviewer-name {
     font-size: 36pt;
-    font-family: 'Roboto Condensed', 'Poppins', sans-serif;
     text-transform: uppercase;
 }
 
