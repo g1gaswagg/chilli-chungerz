@@ -138,7 +138,7 @@ button {
     height: 50vh;
     border-radius: 10px;
 }
-.reviewer-name, .review-description {
+.reviewer-name, .reviewer-description {
     font-family: 'Roboto Condensed' !important;
 }
 .stars i {
