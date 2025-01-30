@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -8,20 +9,24 @@
     scroll-behavior: smooth;
     font-family: 'Poppins', sans-serif;
 }
-.page1, .page2 {
+
+.page1,
+.page2 {
     height: 100vh;
 }
+
 .nav {
     position: fixed;
     height: 10vh;
     width: 100vw;
-    background: rgba(0,0,0,0);
+    background: rgba(0, 0, 0, 0);
     display: flex;
     justify-content: space-around;
     align-items: center;
     top: 1vh;
     z-index: 1000;
 }
+
 .main-section {
     height: 100vh;
     display: flex;
@@ -29,6 +34,7 @@
     align-items: center;
     background: #040404;
 }
+
 .logo {
     height: 10vh;
     background: url("favicon.png");
@@ -36,6 +42,7 @@
     width: 10vh;
     border-radius: 20px;
 }
+
 .buttons {
     width: 80vh;
     display: flex;
@@ -44,13 +51,17 @@
     align-items: center;
     border-radius: 200px;
 }
-.buttons, .logo {
+
+.buttons,
+.logo {
     background-color: #040404;
     border: solid 2px #ccc;
 }
+
 .buttons p {
     font-size: 18pt;
 }
+
 .side {
     width: 50vw;
     height: 100vh;
@@ -60,6 +71,7 @@
     flex-direction: column;
     text-align: center;
 }
+
 .content {
     width: 50vw;
     text-align: center;
@@ -68,6 +80,7 @@
     justify-content: center;
     align-items: center;
 }
+
 button {
     outline: 0;
     border: 0;
@@ -77,26 +90,31 @@ button {
     width: 8.5vw;
     height: 7vh;
 }
+
 .content h1 {
-    font-size: 84pt; 
+    font-size: 84pt;
     font-family: 'Roboto Condensed', 'Poppins', sans-serif;
 }
+
 .img-section {
     background: url("hotsauce.jpg");
     background-size: cover;
     background-position: center;
 }
+
 .sauce-gradient {
     position: absolute;
     height: 100vh;
     width: 100vw;
-    background: linear-gradient(90deg, rgba(0,0,0,0) 40%, rgba(0,0,0,1) 50%, rgba(0,0,0,0) 50%);
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 1) 50%, rgba(0, 0, 0, 0) 50%);
     pointer-events: none;
     z-index: 100;
 }
+
 .page2 {
     background: #000;
 }
+
 .review-container {
     display: flex;
     justify-content: center;
@@ -104,6 +122,7 @@ button {
     height: 100vh;
     flex-direction: column;
 }
+
 .review-section {
     display: flex;
     justify-content: space-evenly;
@@ -111,6 +130,7 @@ button {
     height: 50vh;
     width: 75vw;
 }
+
 .review {
     width: 15vw;
     text-align: center;
@@ -118,18 +138,23 @@ button {
     height: 50vh;
     border-radius: 10px;
 }
+
 .stars i {
     color: #ffff00;
 }
+
 .stars {
     font-size: 24pt;
 }
+
 .reviewer-name {
     font-size: 36pt;
 }
+
 .reviewer-description {
     font-size: 16pt;
 }
+
 .review-image {
     width: 10vw;
     height: 10vw;
@@ -137,9 +162,11 @@ button {
     background-size: cover;
     border-radius: 200px;
 }
+
 .image-wrapper {
     display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 10vw;
+    justify-content: center;
+    align-items: center;
+    height: 10vw;
+    margin-top: 1vh;
 }
