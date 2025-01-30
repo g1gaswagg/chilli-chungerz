@@ -137,9 +137,10 @@ button {
     background: #1a1919;
     height: 50vh;
     border-radius: 10px;
+}
+.reviewer-name, .review-description {
     font-family: 'Roboto Condensed' !important;
 }
-
 .stars i {
     color: #ffff00;
 }
