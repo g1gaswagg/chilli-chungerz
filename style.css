@@ -157,19 +157,22 @@ button {
 .reviewer-description {
     font-size: 24pt;
 }
-
-.review-image {
-    width: 10vw;
-    height: 10vw;
-    background-size: cover;
-    border-radius: 200px;
-}
 .aaron {
     background: url(aaront.jpeg);
 }
 .lola {
     background: url(lolar.jpg);
 }
+.alex {
+    background: url(alexm.jpg);
+}
+.review-image {
+    width: 10vw;
+    height: 10vw;
+    background-size: cover;
+    border-radius: 200px;
+}
+
 .image-wrapper {
     display: flex;
     justify-content: center;
